@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Click-Ninja</string>
+    <string name="get_random_number">Get Random Number</string>
+    <string name="cari_angka_1337">Cari Angka 1337</string>
+    <string name="flag_ninja">Flag{NINJA}</string>
+</resources>
